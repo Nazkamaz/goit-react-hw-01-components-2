@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nazkamaz/goit-react-hw-01-components-2.git/static/css/main.7acaea2f.css",
-    "main.js": "/Nazkamaz/goit-react-hw-01-components-2.git/static/js/main.705d09bd.js",
+    "main.css": "/Nazkamaz/goit-react-hw-01-components-2.git/static/css/main.09c4a940.css",
+    "main.js": "/Nazkamaz/goit-react-hw-01-components-2.git/static/js/main.63b3667f.js",
     "index.html": "/Nazkamaz/goit-react-hw-01-components-2.git/index.html",
-    "main.7acaea2f.css.map": "/Nazkamaz/goit-react-hw-01-components-2.git/static/css/main.7acaea2f.css.map",
-    "main.705d09bd.js.map": "/Nazkamaz/goit-react-hw-01-components-2.git/static/js/main.705d09bd.js.map"
+    "main.09c4a940.css.map": "/Nazkamaz/goit-react-hw-01-components-2.git/static/css/main.09c4a940.css.map",
+    "main.63b3667f.js.map": "/Nazkamaz/goit-react-hw-01-components-2.git/static/js/main.63b3667f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.705d09bd.js"
+    "static/css/main.09c4a940.css",
+    "static/js/main.63b3667f.js"
   ]
 }
