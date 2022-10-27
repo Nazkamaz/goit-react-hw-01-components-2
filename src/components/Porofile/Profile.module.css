@@ -1,0 +1,26 @@
+.profile {
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    max-width: 500px;
+  }
+  
+  .tag,
+  .location {
+    font-size: 20px;
+    color: lightslategray;
+  }
+  
+  .stats {
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #c3e8f6;
+    border-top: 1px solid lightslategray;
+  }
+  
+  .statsItem {
+    display: flex;
+    flex-basis: calc((100% - 30px) / 3);
+    flex-direction: column;
+  }
