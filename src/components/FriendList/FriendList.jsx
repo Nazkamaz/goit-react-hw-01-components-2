@@ -3,7 +3,7 @@ import styles from './FriendList.module.css';
 import Container from 'components/Container/Container';
 import FriendListItem from './FriendListItem';
 
-const FriendList = (friends) => {
+const FriendList = ({friends}) => {
     return (<Container>
         <ul className={styles.friendList}>
             {friends.map(({avatar, name, isOnline, id}) => 

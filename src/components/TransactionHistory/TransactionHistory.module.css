@@ -1,0 +1,15 @@
+.transactionHistory {
+    border: 1px solid lightgray;
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+  }
+  
+  th {
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+  }
+  td {
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+  }
